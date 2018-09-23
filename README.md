@@ -7,3 +7,6 @@ PHP, HTML, CSS
 # Database
 MySQL
 
+# Tools
+WAMP, Notepad++
+
